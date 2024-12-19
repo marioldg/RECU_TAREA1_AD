@@ -1,0 +1,7 @@
+Rodrigo  pass1  AdminGeneral  1
+Mario  pass2  AdminTorneo  1
+Pepe  pass3  AdminTorneo  1
+Kevin  k  AdminTorneo  1
+pepeluis  pepepe  AdminTorneo  4
+jose  jos  AdminTorneo  5
+kike  kik  AdminTorneo  6
